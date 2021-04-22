@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1,tnt arg
+http://145.239.2.125:24400/live/8b351bc669014ef0b275f821ee30c085/f5ab500e1c4f418fb3816456f3bffda3/14.m3u8
+
+#EXTINF:-2,WARNER
+http://209.126.108.5:25461/live/dd230e1824bf42839da4f907e22ba692/a80587139484461aaa849c6d7b183ca7/31.m3u8
+
+#EXTINF:-3,STAR CHANELL
+http://209.126.108.5:25461/live/04bc7dc96fa540248c048f7698d9fb08/6add8fbd3d3f4b6ea87bb20c99a23fca/28.m3u8
+
+#EXTINF:-4,DISNEY CHANEL
+http://209.126.124.36:25650/live/42f60df1ed2f432f98bb2316018f1bb8/273e04159efc4657b2ace3ae65707a93/61.m3u8
+
+#EXTINF:-5,TNT SPORTS HD
+http://45.35.34.42:25949/live/cyx-F35B8F844B528adcB6CF6E591653.ts?user_id=31835116&dev_id=c137394dcc4be29b340f95e97f78c9d3&trans_id=V3FFEvo7FPp_wnvHDKMrTWMD&dead_time=1619135073&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30801&client_ip=186.11.115.98&auth_id=31835116_com.mobile.telelatinomobile&token=490e4bc8fa479843c18e001e8c47c249
+
+#EXTINF:-6,CHV
+http://45.35.34.42:25949/live/cyx-D517F2C442A48e92C9CBB379A4C8.ts?user_id=31835116&dev_id=c137394dcc4be29b340f95e97f78c9d3&trans_id=V3FFEvo7FPp_43ttouTUDOzy&dead_time=1619135073&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30801&client_ip=186.11.115.98&auth_id=31835116_com.mobile.telelatinomobile&token=f78dbe91723ca752db54c75bafec2d5a
+
+#EXTINF:-7,MEGA
+http://45.35.34.42:25949/live/cyx-4C73048D477Eb9ba07F5BF09ADC4.ts?user_id=31835116&dev_id=c137394dcc4be29b340f95e97f78c9d3&trans_id=V3FFEvo7FPp_Yt8P1rIvcdj&dead_time=1619135073&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30801&client_ip=186.11.115.98&auth_id=31835116_com.mobile.telelatinomobile&token=6c7e65dadd114f0e2f61f01265396e11
+
+#EXTINF:-8,TVN
+http://45.35.34.42:25949/live/cyx-5E0BF5F947728f3e46A9A317C41F.ts?user_id=31835116&dev_id=c137394dcc4be29b340f95e97f78c9d3&trans_id=V3FFEvo7FPp_0b9JENLq5jMt&dead_time=1619135073&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30801&client_ip=186.11.115.98&auth_id=31835116_com.mobile.telelatinomobile&token=81728b741eeb8dcba632557b4e28dbf3
+
+#EXTINF:-9,LA RED
+http://45.35.34.42:25949/live/cyx-1F3251F9425197449B94E006D8EB.ts?user_id=31835116&dev_id=c137394dcc4be29b340f95e97f78c9d3&trans_id=V3FFEvo7FPp_HJ63pHBcCpsB&dead_time=1619135073&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30801&client_ip=186.11.115.98&auth_id=31835116_com.mobile.telelatinomobile&token=a615b50cf1fb2e5ea8fc7e13581d7871
+
+#EXTINF:-10,DE PELICULA
+http://45.35.34.42:25949/live/cyx_8rEjvjaAldBlmK0AhP.ts?user_id=31835116&dev_id=c137394dcc4be29b340f95e97f78c9d3&trans_id=V3FFEvo7FPp_6xxRnH3tvUap&dead_time=1619135073&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30801&client_ip=186.11.115.98&auth_id=31835116_com.mobile.telelatinomobile&token=8e90ead11c0013fcd92b19a71c2e392e
